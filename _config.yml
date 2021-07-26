@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: wu jian
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: developer blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://lh3.googleusercontent.com/-2GHn1mhARF0/X29IfLcbwZI/AAAAAAAAFBo/Zh9ObpJAGIQvorbD7NybtKRN0sF6Dq3NQCEwYBhgLKtMDABHVOhxaC6_xHA3OvTzSJJKpUsIYYgeZ_7onCBpVVVfAFYPeVRR63dh2Wxm2lMgxcjlmX_yOESRzC5tQVyMgBrCcZd7IpRFyRtm_ALvJDzCJnHjCPs7m0UZB_UxsOQ6GGekGCnAe_T2f4Zmh1flTi1MqTBmMh_wVF0AZ53Zpd_L3AlNu9gcNw3IKVtnJ4y1-MQGFmDZ-iC2tzUST_E-Rq_xfOpfNdpCMg0LgFSS7MHkU8efcwYOqaical_EzanIdT_fBD5bH3jbNMH8e-EjiGZ4ekaEeZo1o3J4uqRzAR5-fMtpM9GmNEFiLiqs03WtsYz8yygZJArBRbt9siVznHPwk-AuL6yT7MydpSEFFk6j3sE8O4IITdGI2Gf5VPJOzxTGWC0Y1U5IM-U32FVsX785yqbVt8yMBRP5FYxv4nKq3vvs2BKBu08F67c5Eg-c9cQams3vShPAQWcr6jf5yLZ06KV4GVPJl9gd85fuy0JdWo5v6Bn-tlYb-61l6oofMCPPMdUh3daMrfjyi3A97q_3UKqI5d_KeW6jetArIZjckIKIY7z7xqDZrk343B2QCITJRuagmJE7jVFzfYGxYrmI4Em8cZOpY2vRpjCZDpnSNNtsw7aX4hwY/w140-h140-p/v2-3138c4305f9e0d1047239651d7ee5653_r.jpg
 
 #
 # Flags below are optional
@@ -18,18 +18,18 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: wujian1404@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: kenjiWuJian/jekyll-wujian1404
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  twitter: 
+  stackoverflow:
+  youtube: 
+  googleplus: 
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
